@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Framework\OnlineShopDbContext.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>OnlineShopDbContext.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Framework\OnlineShopDbContext.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OnlineShopDbContext.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

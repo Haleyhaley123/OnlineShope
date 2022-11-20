@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/g+x+wPZj0WzjYxdPbzIrzQZ0EEBRmOK7feJPoR1fkoSFPQb0lWMHqKUwzsbNp6beMtDKhFzz8W57V+u+NYE9A==",
+  "success": true,
+  "projectFilePath": "D:\\HA\\OnlineShope\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toprate\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\toprate\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toprate\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
