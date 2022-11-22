@@ -1,0 +1,12 @@
+D:\HA\OnlineShope\Models\bin\Debug\Models.dll.config
+D:\HA\OnlineShope\Models\bin\Debug\Models.dll
+D:\HA\OnlineShope\Models\bin\Debug\Models.pdb
+D:\HA\OnlineShope\Models\bin\Debug\EntityFramework.dll
+D:\HA\OnlineShope\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\HA\OnlineShope\Models\bin\Debug\EntityFramework.xml
+D:\HA\OnlineShope\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\HA\OnlineShope\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\HA\OnlineShope\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\HA\OnlineShope\Models\obj\Debug\Models.csproj.CopyComplete
+D:\HA\OnlineShope\Models\obj\Debug\Models.dll
+D:\HA\OnlineShope\Models\obj\Debug\Models.pdb

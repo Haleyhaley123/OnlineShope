@@ -151,7 +151,6 @@ D:\HA\OnlineShope\ShopOnline\bin\System.Web.WebPages.Razor.xml
 D:\HA\OnlineShope\ShopOnline\bin\Newtonsoft.Json.xml
 D:\HA\OnlineShope\ShopOnline\bin\Antlr3.Runtime.pdb
 D:\HA\OnlineShope\ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\HA\OnlineShope\ShopOnline\obj\Debug\ShopOnline.csproj.AssemblyReference.cache
 D:\HA\OnlineShope\ShopOnline\obj\Debug\ShopOnline.csproj.CoreCompileInputs.cache
 D:\HA\OnlineShope\ShopOnline\obj\Debug\ShopOnline.csproj.CopyComplete
 D:\HA\OnlineShope\ShopOnline\obj\Debug\ShopOnline.dll
